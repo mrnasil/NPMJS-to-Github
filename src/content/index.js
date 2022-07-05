@@ -9,7 +9,6 @@ if (window.location.host === 'www.npmjs.com') {
 
   // console.log(nodes)
 
-  window.location.replace(nodes);
-
+  window.location.replace(nodes)
 }
 export {}

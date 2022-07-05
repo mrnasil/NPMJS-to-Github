@@ -22,7 +22,7 @@ export default defineManifest({
   },
   content_scripts: [
     {
-      matches: [ '*://*.npmjs.com/*' ],
+      matches: ['*://*.npmjs.com/*'],
       js: ['src/content/index.js'],
     },
   ],

@@ -1,16 +1,10 @@
-<script setup>
-import { ref } from 'vue'
-
-const crx = ref('create-chrome-ext')
-</script>
-
 <template>
   <main>
     <h3>Options Page!</h3>
 
-    <h6>v 0.0.0</h6>
+    <h6>v 0.0.1</h6>
 
-    <a href="https://www.farukarigun.com" target="_blank">Power by {{ crx }}</a>
+    <a href="https://www.farukarigun.com" target="_blank">Faruk ARIGÜN</a>
   </main>
 </template>
 
